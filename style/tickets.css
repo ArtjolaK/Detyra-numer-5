@@ -1,0 +1,196 @@
+html{
+    position: relative;
+    background-color: #363740;
+    height: 1440px;
+    width: 1024px;
+
+}
+
+.hair{ 
+    position: absolute;
+    width: 258px;
+    height: 134px;
+    margin: 161px 1102px 729px 80px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: 1px solid #dfe0eb;
+}
+
+h1{
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    margin: 79px 1144px 895px 102px;
+    font-family:'muli';
+    font-style: bold;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+
+}
+.unresolved{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    margin: 24px 32px 86px 32px ;
+    font-family:'Muli';
+    font-size: 19px;
+    line-height: 24px;
+   text-align: center;
+    vertical-align: top;
+    letter-spacing: 0.4px ;
+     color: #9fa2b4;
+
+
+}
+.tree{
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    margin: 60px 32px 24px 32px ;
+    font-family:'muli';
+    font-size: 40px;
+    font-style: bold;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 1px ;
+     color: #252733;
+
+}
+.overdue{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    margin: 24px 32px 86px 32px ;
+    font-family:'muli';
+    font-size: 19px;
+    font-style: bold;
+    line-height: 24px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 0.4px ;
+     color:#9fa2b4;
+
+}
+.overdue:hover{
+    color: #3751FF;
+}
+.numeri{
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    margin: 60px 32px 24px 32px ;
+    font-family:'muli';
+    font-size: 40px;
+    font-style: bold;
+    line-height: 50px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 1px ;
+     color: #252733;
+}
+.numeri:hover{
+    color: #3751FF;
+
+}
+
+.box2{
+    position: absolute;
+    width: 258px;
+    height: 134px;
+    margin: 315px 1102px 575px 80px ;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: 1px solid #dfe0eb;
+
+    
+    
+}
+.box2:hover{
+    border-color: #3751ff;   
+   
+}
+
+.box3{
+    position: absolute;
+    width: 258px;
+    height: 134px;
+    margin: 469px 1102px 421px 80px ;
+    background-color: #FFFFFF;
+    border: 1px solid #dfe0eb;
+    border-radius: 8px ;
+}
+.box4{
+    position: absolute;
+    width: 258px;
+    height: 134px;
+    margin: 623px 1102px 267px 80px ;
+    background-color: #FFFFFF;
+    border: 1px solid #dfe0eb;
+    border-radius: 8px ;
+
+}
+.open{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    margin: 24px 34px 86px 32px ;
+    font-family:'muli';
+    font-size: 19px;
+    font-style: bold;
+    line-height: 24px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 0.4px ;
+     color: #9fa2b4;
+}
+.numri2{
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    margin: 60px 32px 24px 32px ;
+    font-family:'muli';
+    font-size: 40px;
+    font-style: bold;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 1px ;
+     color: #252733;
+}
+.onHold{
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    margin: 24px 32px 86px 32px ;
+    font-family:'muli';
+    font-size: 19px;
+    font-style: bold;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 0.4px ;
+     color: #9fa2b4;
+
+}
+.numri3{
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    margin: 60px 32px 24px 32px ;
+    font-family:'muli';
+    font-size: 40px;
+    font-style: bold;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 1px ;
+     color: #252733;
+
+}

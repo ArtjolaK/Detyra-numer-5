@@ -1,0 +1,270 @@
+html{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #363740;
+}
+.box{
+    position: absolute;
+    width: 546px;
+    height: 468px;
+    margin: 196px 838px 360px 56px;
+    background-color: #ffffff;
+    border: 1px solid #dfe0eb;
+}
+
+h1{
+    position: absolute;
+    height: 100px;
+    margin: 49px 1190px 865px 56px  ;
+    font-family:'Muli';
+    font-size: 40px;
+    font-style: bold;
+    line-height: 47px;
+    text-align: center;
+    letter-spacing: 1px ;
+    color: #ffffff;
+}
+.today{
+    position: absolute;
+    
+    width: 336px;
+    height: 16px;
+    margin: 64px 178px 388px 32px ;
+    
+    font-family:'Muli';
+    font-size: 12px;
+   
+    line-height: 16px;
+    
+   
+    letter-spacing: 0.1px ;
+     color: #9FA2B4;
+
+}
+.view{
+    position: absolute;
+    width: 84px;
+    height: 20px;
+    margin: 94px 462px 354px  0px;
+    font-family:'muli';
+    font-size: 14px;
+    line-height: 20px;
+    line-height: 114%;
+    text-align: right;
+    vertical-align: top;
+    letter-spacing: 0.2px ;
+    color: #3751FF;
+     
+}
+.createNewTask{
+    position: absolute;
+    width: 336px;
+    height: 20px;
+    margin: 118px 181px 330px  29px;
+    font-family:'muli';
+    font-size: 14px;
+    line-height: 20px;
+    align-items: left;
+    vertical-align: top;
+    letter-spacing: 0.2px ;
+    color: #C5C7CD;
+
+}
+.figplus{
+    position: absolute;
+    margin: 12px 7px 12px 7px;
+    
+}
+.vektorvertikal{
+    position: absolute;
+    margin: 12px 7px 12px 7px;
+    rotate: 90deg;
+
+}
+.grey{
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    background-color: #f0f1f7;
+    border-radius: 8px;
+    margin: 137px 492px 302px 30px;
+
+}
+
+.circle{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    color: #C5C7CD;
+    margin: 212px 494px 236px 32px ;
+}
+.circle1{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    color: #C5C7CD;
+    margin: 287px 492px 161px 34px ; 
+
+}
+.finish{
+    position: absolute;
+    width: 336px;
+    height: 20px;
+    margin: 232px 178px 216px 32px;
+    font-family:'Muli';
+    font-size: 14px;
+    line-height: 20px;
+ 
+   
+    letter-spacing: 0.2px ;
+    color: #252733;
+
+
+}
+.task1{
+    width: 546px;
+    height: 120px;
+    margin-top: 162px;
+    margin-bottom: 186px;
+}
+
+
+
+.createtickets{
+    position: absolute;
+    width: 336px;
+    height: 20px;
+    margin: 307px 176px 141px 34px;
+    font-family:'Muli';
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px ;
+    color: #252733;
+
+}
+.updatetickets{
+    position: absolute;
+    width: 336px;
+    height: 20px;
+    margin: 384px 173px 64px 37px;
+    font-family:'muli';
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    letter-spacing: 0.2px ;
+    color: #252733; 
+
+}
+.tasks{
+    position: absolute;
+    width: 336px ;
+    height: 24px;
+    font-family: "Muli";
+    margin: 32px 178px 412px 32px;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+
+}
+.urgent{
+    position: absolute;
+    width: 50px ;
+    height: 14px;
+    font-family: "Muli";
+    font-style: bold;
+    margin: 5PX 12PX 5PX 12PX;
+    font-size: 11px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+
+}
+.color1{
+    position: absolute;
+    width: 74px;
+    height: 24px;
+    margin: 252px 440px 192px 32px ;
+    border-radius: 8px;
+    background-color: #FEC440;
+
+}
+.new{
+    position: absolute;
+    width: 50px ;
+    height: 14px;
+    font-family: "Muli";
+    font-style: bold;
+    margin: 5px 12px 5px 12px;
+    font-size: 11px;
+    line-height: 100%;
+   
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+
+}
+.divgreen{
+    position: absolute;
+    width: 54px;
+    height: 24px;
+    margin: 327px 458px 117px 34px;
+    border-radius: 8px;
+    background-color: #29CC97;
+}
+.check{
+    position: absolute;
+    margin: 7px 5px 6px 5px ;
+
+}
+.ellipse{
+    position: absolute;
+    margin: 364px 489px 84px 37px;
+
+}
+.default{
+    position: absolute;
+    width: 52px ;
+    height: 14px;
+    font-family: "Muli";
+    font-style: bold;
+    margin: 5px 12px 5px 12px;
+    font-size: 11px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #9FA2B4;
+}
+.divgrey{
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    margin: 404px 433px 40px 37px;
+    background-color: #F0F1F7;
+}
+.divider{
+    position: absolute;
+    width: 546px;
+    height: 1px;
+    background-color: #DFE0EB;
+    margin-top: 165px;
+    margin-bottom: 303px;
+}
+.dividerr{
+    position: absolute;
+    width: 546px;
+    height: 1px;
+    background-color: #DFE0EB;
+    margin-top: 282px;
+    margin-bottom: 186px;
+    
+}
+.divider3{
+    position: absolute;
+    width: 546px;
+    height: 1px;
+    background-color: #DFE0EB;
+    margin-top: 357px;
+    margin-bottom: 111px;
+}
